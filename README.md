@@ -25,5 +25,5 @@ I am currently pursuing a Bachelor's degree in Computer Science at Chandigarh Un
 ![](https://github-contributor-stats.vercel.app/api?username=AnubhavTyagi26&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### ✍️ Contributions
-![snake gif](https://github.com/AnubhavTyagi26/AnubhavTyagi26/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AnubhavTyagi26/AnubhavTyagi26/blob/output/github-contribution-grid-snake.svg)
 
