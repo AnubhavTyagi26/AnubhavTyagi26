@@ -24,4 +24,4 @@ I am currently pursuing a Bachelor's degree in Computer Science at Chandigarh Un
 ---
 [![](https://visitcount.itsvg.in/api?id=AnubhavTyagi26&icon=5&color=10)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/AnubhavTyagi26/AnubhavTyagi26/blob/output/github-contribution-grid-snake.svg)
+
