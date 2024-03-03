@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am currently pursuing a Bachelor's degree in Computer Science at Chandigarh University. I am on the lookout for exciting opportunities to apply and expand my skills in the dynamic world of technology.<br>With a strong foundation in coding and design, I am proficient in languages including C++, Python, HTML 5, CSS, JavaScript, and Java. I am eager to contribute my skills and enthusiasm to a dynamic team where I can continue to learn and grow while making meaningful contributions.
 
+---
+[![](https://visitcount.itsvg.in/api?id=AnubhavTyagi26&icon=5&color=10)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kalplays_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhav-tyagi-205a26202) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anubhav0726) 
