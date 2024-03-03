@@ -15,10 +15,10 @@ I am currently pursuing a Bachelor's degree in Computer Science at Chandigarh Un
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnubhavTyagi26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=AnubhavTyagi26&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
